@@ -1,8 +1,12 @@
-# Análise de Desempenho de Lojas – Projeto Oracle ONE | Alura
+# 📊 Análise de Desempenho de Lojas – Projeto Oracle ONE | Alura
 
 ## Descrição do Projeto
 
-Este projeto realiza uma análise comparativa do desempenho de quatro lojas distintas (Loja 01, Loja 02, Loja 03 e Loja 04) utilizando um conjunto de métricas estratégicas. O objetivo é identificar qual loja seria a mais indicada para venda, considerando fatores como faturamento, vendas por categoria de produto, avaliação dos clientes, produtos mais e menos vendidos e custo médio de frete.
+Este repositório contém um projeto de análise de dados proposto pelo programa Oracle Next Education (ONE) em parceria com a Alura.
+
+O objetivo do projeto é realizar uma análise completa do desempenho de quatro lojas, considerando métricas como faturamento total, vendas por categoria, avaliação dos clientes, produtos mais e menos vendidos e custo médio de frete, com o intuito de recomendar qual loja o cliente (Sr. João) deve vender com base em dados reais.
+
+A análise foi realizada utilizando Python, com apoio das bibliotecas Pandas, Seaborn e Matplotlib para tratamento, agregação e visualização dos dados.
 
 ## Dados
 
